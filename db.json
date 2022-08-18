@@ -1,0 +1,24 @@
+{
+  "scores": [
+    {
+      "user_id": "Camilo",
+      "score": 14
+    },
+    {
+      "user_id": "Marcelo",
+      "score": 3
+    },
+    {
+      "user_id": "Laura",
+      "score": 32
+    },
+    {
+      "user_id": "Susana",
+      "score": 13
+    },
+    {
+      "user_id": "Maria",
+      "score": 90
+    }
+  ],
+}
